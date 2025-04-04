@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey Everyone 👋, I'm Diksha Gurupawar </h1>
+<h1 align="center">Hey Everyone 👋, I'm Diksha </h1>
 
 
 <h3 align="center">A passionate DevOps Engineer. In my free time, I like to implement DevOps related demo projects. </h3>
