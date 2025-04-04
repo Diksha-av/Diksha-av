@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Diksha-av&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/jaiswaladi246](https://github.com/Diksha-av)] 
+- 👨‍💻 All of my projects are available at [[https://github.com/Diksha-av](https://github.com/Diksha-av)] 
 
 
 
