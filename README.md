@@ -41,15 +41,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diksha-av&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 
----
+
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
----
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Diksha-av&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
----
+
 
